@@ -30,18 +30,23 @@ I am a xR Developer (Engineer).
 # Talks
 
 * xRLT vol.3～オンラインでやってみようスペシャル～ (2020.3)
+
 https://hololens.connpass.com/event/164989/
 
 * 第5回勉強会「XR Interaction Toolkitの話、他」(2020.6)
+
 chiikiokoshi-vr.connpass.com/event/175620
 
 * Tokyo HoloLens ミートアップ vol.20 (2020.7)
+
 hololens.connpass.com/event/180507
 
-* yokohama.unity ~オンラインDEユルクヤッテル #実質4回目~ (2020.7)
+* yokohama.unity ～オンラインDEユルクヤッテル #実質4回目～ (2020.7)
+
 https://meetup.unity3d.jp/jp/events/1253
 
 * xR Developers Community Conference (2020.8)
+
 vrtokyo.connpass.com/event/185043
 
 # Projects
