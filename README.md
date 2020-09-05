@@ -2,7 +2,7 @@
 
 * XR Developer
 
-<img src="https://imgur.com/CWOLOfv" width="150">
+<img src="https://d.kuku.lu/b886dad00a" width="150">
 
 # ✨ Hobby
 * Anime
