@@ -1,4 +1,4 @@
-# Biography
+# 😃 Biography
 
 My name is Denik.</br>
 Please call me "デニキ" (deniki). Also, Denik.</br>
@@ -6,28 +6,28 @@ Deniki means "Denik" + "Aniki" = "Deniki".</br>
 
 I am a xR Developer (Engineer).
 
-# Interest
+# 🤪 Interest
 
 * XR(VR/AR/MR)
 
-# Education
+# 🏫 Education
 
 * Kasukabe High School, Saitama, Japan
 * Bachelor of Engineering University of Tsukuba, Ibaraki, Japan
 * Master of Engineering University of Tsukuba, Ibaraki, Japan
 
-# Certification
+# 📚 Certification
 
 * Outstanding Master's Thesis Award
 * ORACLE MASTER BRONZE Oracle 12c Database
 * Senior Virtual Reality Specialist
 * TOEIC® Listening & Reading Test Score 890
 
-# ⚡ Fan Fact
+# ✨ Fan Fact
 * Anime
 * Game
 
-# Talks
+# 🗣️ Talks
 
 * xRLT vol.3～オンラインでやってみようスペシャル～ (2020.3)
 
@@ -49,7 +49,7 @@ https://meetup.unity3d.jp/jp/events/1253
 
 https://vrtokyo.connpass.com/event/185043
 
-# Projects
+# 💻 Projects
 
 Coming Soon...
 
