@@ -1,14 +1,10 @@
 # 😃 Biography
 
-My name is Denik.</br>
-Please call me "デニキ" (deniki). Also, Denik.</br>
-Deniki means "Denik" + "Aniki" = "Deniki".</br>
-
-I am a xR Developer (Engineer).
+XR Developer.
 
 # 🤪 Interest
 
-* XR(VR/AR/MR)
+* XR (VR/AR/MR)
 
 # 🏫 Education
 
@@ -23,11 +19,12 @@ I am a xR Developer (Engineer).
 * Senior Virtual Reality Specialist
 * TOEIC® Listening & Reading Test Score 890
 
-# ✨ Fan Fact
+# ✨ Hobby
 * Anime
-* Game
+* Game (espectially, MMORPG like FFXIV)
+* Watching Baseball (Giants Fan) 
 
-# 🗣️ Talks
+# 🗣️ Talk
 
 * xRLT vol.3～オンラインでやってみようスペシャル～ (2020.3)
 
