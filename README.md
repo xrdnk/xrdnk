@@ -2,8 +2,6 @@
 
 * XR Developer
 
-<img src="https://d.kuku.lu/b886dad00a" width="150">
-
 # ✨ Hobby
 * Anime
 * Game (espectially, MMORPG like FFXIV)
