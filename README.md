@@ -1,6 +1,11 @@
 # 😃 Biography
 
-XR Developer.
+* XR Developer
+
+# ✨ Hobby
+* Anime
+* Game (espectially, MMORPG like FFXIV)
+* Watching Baseball (Giants Fan) 
 
 # 🤪 Interest
 
@@ -18,11 +23,6 @@ XR Developer.
 * ORACLE MASTER BRONZE Oracle 12c Database
 * Senior Virtual Reality Specialist
 * TOEIC® Listening & Reading Test Score 890
-
-# ✨ Hobby
-* Anime
-* Game (espectially, MMORPG like FFXIV)
-* Watching Baseball (Giants Fan) 
 
 # 🗣️ Talk
 
