@@ -1,4 +1,11 @@
-### Hi there 👋
+# Biography
+
+My name is Denik.
+Please call me "デニキ" (deniki). Also, Denik.
+Deniki means "Denik" + "Aniki" = "Deniki".
+
+* xR Developer (Engineer)
+
 
 <!--
 **xrdnk/xrdnk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
