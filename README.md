@@ -4,7 +4,7 @@
 
 # ✨ Hobby
 * Anime
-* Game (espectially, MMORPG like FFXIV)
+* Game
 * Watching Baseball (Giants Fan) 
 
 # 🤪 Interest
