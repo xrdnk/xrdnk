@@ -48,8 +48,10 @@ https://vrtokyo.connpass.com/event/185043
 
 # 💻 Projects
 
-Coming Soon...
+* TeleAttend🄬 (TIS Inc. / 2020.5 ～)
 
+https://www.tis.jp/service_solution/teleattend/
+https://prtimes.jp/main/html/rd/p/000000843.000011650.html
 
 <!--
 **xrdnk/xrdnk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
