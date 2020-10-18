@@ -1,6 +1,6 @@
 # 😃 Biography
 
-* XR Developer
+* XR Developer 🔰
 
 # ✨ Hobby
 * Anime
