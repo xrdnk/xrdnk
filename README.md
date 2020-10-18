@@ -50,7 +50,8 @@ https://vrtokyo.connpass.com/event/185043
 
 * TeleAttend🄬 (TIS Inc. / 2020.5 ～)
 
-https://www.tis.jp/service_solution/teleattend/
+https://www.tis.jp/service_solution/teleattend/  
+
 https://prtimes.jp/main/html/rd/p/000000843.000011650.html
 
 <!--
