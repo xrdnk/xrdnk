@@ -50,6 +50,10 @@ https://vrtokyo.connpass.com/event/185043
 
 https://hololens.connpass.com/event/191356/
 
+* yokohama.unity #実質6回目 / LT (2020.12)
+
+https://meetup.unity3d.jp/jp/events/1267
+
 # 💻 Projects
 
 * TeleAttend🄬 (TIS Inc. / 2020.5 ～)
