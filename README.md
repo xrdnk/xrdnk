@@ -46,18 +46,17 @@ https://meetup.unity3d.jp/jp/events/1253
 
 https://vrtokyo.connpass.com/event/185043
 
-* Tokyo HoloLens ミートアップ vol.22 / LT (2020.10)
+* [Tokyo HoloLens ミートアップ vol.22](https://hololens.connpass.com/event/191356/) / LT (2020.10)
 
-https://hololens.connpass.com/event/191356/
-
-* yokohama.unity #実質6回目 / LT (2020.12)
-
-https://meetup.unity3d.jp/jp/events/1267
+* [yokohama.unity #実質6回目](https://meetup.unity3d.jp/jp/events/1267) / LT (2020.12)
 
 # 💻 Projects
 
-* [TeleAttend🄬](https://www.tis.jp/service_solution/teleattend/) (TIS Inc. / 2020.5 ～)
+## [TeleAttend🄬](https://www.tis.jp/service_solution/teleattend/) (TIS Inc. / 2020.5 ～)
 
+* Photon を用いたマルチプレイ同期処理・再接続処理
+* HoloLens 2 版アプリ対応をワンマンで担当
+* その他細かい調整
 
 <!--
 **xrdnk/xrdnk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
