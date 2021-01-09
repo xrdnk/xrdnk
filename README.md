@@ -26,25 +26,15 @@
 
 # 🗣️ Talk
 
-* xRLT vol.3～オンラインでやってみようスペシャル～ / LT (2020.3)
+* [xRLT vol.3～オンラインでやってみようスペシャル～](https://hololens.connpass.com/event/164989/) / LT (2020.3)
 
-https://hololens.connpass.com/event/164989/
+* [第5回勉強会「XR Interaction Toolkitの話、他」](https://chiikiokoshi-vr.connpass.com/event/175620) / LT (2020.6)
 
-* 第5回勉強会「XR Interaction Toolkitの話、他」/ LT (2020.6)
+* [Tokyo HoloLens ミートアップ vol.20](https://hololens.connpass.com/event/180507) / LT (2020.7)
 
-https://chiikiokoshi-vr.connpass.com/event/175620
+* [yokohama.unity ～オンラインDEユルクヤッテル #実質4回目～](https://meetup.unity3d.jp/jp/events/1253) / LT (2020.7)
 
-* Tokyo HoloLens ミートアップ vol.20 / LT (2020.7)
-
-https://hololens.connpass.com/event/180507
-
-* yokohama.unity ～オンラインDEユルクヤッテル #実質4回目～ / LT (2020.7)
-
-https://meetup.unity3d.jp/jp/events/1253
-
-* xR Developers Community Conference / Session Talk (2020.8)
-
-https://vrtokyo.connpass.com/event/185043
+* [xR Developers Community Conference](https://vrtokyo.connpass.com/event/185043) / Session Talk (2020.8)
 
 * [Tokyo HoloLens ミートアップ vol.22](https://hololens.connpass.com/event/191356/) / LT (2020.10)
 
