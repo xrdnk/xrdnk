@@ -10,13 +10,11 @@
 * XR (VR/AR/MR)
 
 # 🏫 Education
-
 * Kasukabe High School, Saitama, Japan
 * Bachelor of Engineering University of Tsukuba, Ibaraki, Japan
 * Master of Engineering University of Tsukuba, Ibaraki, Japan
 
 # 📚 Certification
-
 * Outstanding Master's Thesis Award
 * ORACLE MASTER BRONZE Oracle 12c Database
 * Senior Virtual Reality Specialist
@@ -35,7 +33,7 @@
 # 💻 Projects
 ## [TeleAttend🄬](https://www.tis.jp/service_solution/teleattend/) (TIS Inc. / 2020.5 ～)
 
-* Photon を用いたマルチプレイ同期処理・再接続処理
+* Photon を用いた VR/AR マルチプレイ同期処理
 * HoloLens 2 版アプリ対応をワンマンで担当
 * その他細かい調整
 
