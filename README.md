@@ -34,7 +34,7 @@
 ## [TeleAttend🄬](https://www.tis.jp/service_solution/teleattend/) (TIS Inc. / 2020.5 ～)
 
 * Photon を用いた VR/AR マルチプレイ同期処理
-* HoloLens 2 版アプリ対応をワンマンで担当
+* HoloLens 2 版アプリ対応担当
 * その他細かい調整
 
 <!--
