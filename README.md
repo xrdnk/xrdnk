@@ -33,9 +33,8 @@
 # 💻 Projects
 ## [TeleAttend🄬](https://www.tis.jp/service_solution/teleattend/) (TIS Inc. / 2020.5 ～)
 
-* Photon を用いた VR/AR マルチプレイ同期処理
-* HoloLens 2 版アプリ対応担当
-* その他細かい調整
+* Photon を用いた VR/AR マルチプレイアプリ開発に従事
+* HoloLens 2 版アプリ対応を主担当 
 
 <!--
 **xrdnk/xrdnk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
