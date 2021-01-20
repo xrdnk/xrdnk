@@ -1,5 +1,6 @@
 # 😃 Biography
-* XR Developer 🔰
+* XR Developer 🔰 (2020.5 ~ Current)
+* System Engineer (2019.4 ~ 2020.4)
 
 # ✨ Hobby
 * Anime
@@ -30,11 +31,14 @@
 * [Tokyo HoloLens ミートアップ vol.22](https://hololens.connpass.com/event/191356/) / LT (2020.10)
 * [yokohama.unity #実質6回目](https://meetup.unity3d.jp/jp/events/1267) / LT (2020.12)
 
+## 2021
+* TBD
+
 # 💻 Projects
 ## [TeleAttend🄬](https://www.tis.jp/service_solution/teleattend/) (TIS Inc. / 2020.5 ～)
 
 * Photon を用いた VR/AR マルチプレイアプリ開発に従事
-* HoloLens 2 版アプリ対応を主担当 
+* HoloLens 2 版アプリ対応を主担当 (コンテンツ東京2020にて展示し，テレビ放映された）
 
 <!--
 **xrdnk/xrdnk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
