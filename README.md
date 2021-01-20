@@ -16,7 +16,7 @@
 * Kasukabe High School, Saitama, Japan
 
 # 📚 Certification
-* Outstanding Master's Thesis Award "[SCUBA VR: Submersible-Type Virtual Underwater Experience System](https://ieeexplore.ieee.org/abstract/document/8798052)"
+* Outstanding Master's Thesis Award / IEEE OSAKA 2019 "[SCUBA VR: Submersible-Type Virtual Underwater Experience System](https://ieeexplore.ieee.org/abstract/document/8798052)"
 * Senior Virtual Reality Specialist
 * TOEIC® Listening & Reading Test Score 890
 
