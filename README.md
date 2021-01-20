@@ -11,13 +11,12 @@
 * XR (VR/AR/MR)
 
 # 🏫 Education
-* Kasukabe High School, Saitama, Japan
-* Bachelor of Engineering University of Tsukuba, Ibaraki, Japan
 * Master of Engineering University of Tsukuba, Ibaraki, Japan
+* Bachelor of Engineering University of Tsukuba, Ibaraki, Japan
+* Kasukabe High School, Saitama, Japan
 
 # 📚 Certification
-* Outstanding Master's Thesis Award
-* ORACLE MASTER BRONZE Oracle 12c Database
+* Outstanding Master's Thesis Award "[SCUBA VR: Submersible-Type Virtual Underwater Experience System](https://ieeexplore.ieee.org/abstract/document/8798052)"
 * Senior Virtual Reality Specialist
 * TOEIC® Listening & Reading Test Score 890
 
