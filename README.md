@@ -1,5 +1,5 @@
 # 😃 Biography
-* XR Developer 🔰 (2020.5 ~ Current)
+* XR Developer (2020.5 ~ Current)
 * System Engineer (2019.4 ~ 2020.4)
 
 # ✨ Hobby
