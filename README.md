@@ -1,13 +1,13 @@
 ### 💙 SNS
 
 <a href="http://twitter.com/xrdnk">
-  <img height="30" src="https://img.shields.io/twitter/url?color=blue&label=xrdnk&logo=twitter&logoColor=blue&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fxrdnk" />
+  <img height="25" src="https://img.shields.io/twitter/url?color=blue&label=xrdnk&logo=twitter&logoColor=blue&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fxrdnk" />
 </a>
 <a href="https://xrdnk.hateblo.jp/">
-  <img height="30" src="https://img.shields.io/twitter/url?color=green&label=BLOG&style=for-the-badge&url=https%3A%2F%2Fxrdnk.hateblo.jp%2F" />
+  <img height="25" src="https://img.shields.io/twitter/url?color=green&label=BLOG&style=for-the-badge&url=https%3A%2F%2Fxrdnk.hateblo.jp%2F" />
 </a>
 <a href="http://qiita.com/xrdnk">
-  <img height="20" src="https://qiita-badge.apiapi.app/s/xrdnk/posts.svg" />
+  <img height="25" src="https://qiita-badge.apiapi.app/s/xrdnk/posts.svg" />
 </a>
 
 ### 😃 Biography
