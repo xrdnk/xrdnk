@@ -1,7 +1,11 @@
 ### 💙 SNS
 
-![Twitter URL](https://img.shields.io/twitter/url?color=blue&label=xrdnk&logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fxrdnk)
-![Blog URL](https://img.shields.io/twitter/url?color=violet&label=blog&style=for-the-badge&url=https%3A%2F%2Fxrdnk.hateblo.jp%2F)
+<a href="http://twitter.com/xrdnk">
+  <img height="30" src="https://img.shields.io/twitter/url?color=blue&label=xrdnk&logo=twitter&logoColor=blue&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fxrdnk" />
+</a>
+<a href="https://xrdnk.hateblo.jp/">
+  <img height="30" src="https://img.shields.io/twitter/url?color=green&label=BLOG&style=for-the-badge&url=https%3A%2F%2Fxrdnk.hateblo.jp%2F" />
+</a>
 
 ### 😃 Biography
 * XR Developer (2020.5 ~ Current)
