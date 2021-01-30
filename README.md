@@ -6,9 +6,6 @@
 <a href="https://xrdnk.hateblo.jp/">
   <img height="25" src="https://img.shields.io/twitter/url?color=green&label=BLOG&style=for-the-badge&url=https%3A%2F%2Fxrdnk.hateblo.jp%2F" />
 </a>
-<a href="http://qiita.com/xrdnk">
-  <img height="25" src="https://qiita-badge.apiapi.app/s/xrdnk/posts.svg" />
-</a>
 
 ### 😃 Biography
 * XR Developer (2020.5 ~ Current)
