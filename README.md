@@ -6,6 +6,9 @@
 <a href="https://xrdnk.hateblo.jp/">
   <img height="30" src="https://img.shields.io/twitter/url?color=green&label=BLOG&style=for-the-badge&url=https%3A%2F%2Fxrdnk.hateblo.jp%2F" />
 </a>
+<a href="http://qiita.com/xrdnk">
+  <img height="20" src="https://qiita-badge.apiapi.app/s/xrdnk/posts.svg" />
+</a>
 
 ### 😃 Biography
 * XR Developer (2020.5 ~ Current)
@@ -20,6 +23,9 @@
 * [Outstanding Master's Thesis Award](http://www.iit.tsukuba.ac.jp/archives/awards/iitawards/7939.html)
 * Senior Virtual Reality Specialist
 * TOEIC® Listening & Reading Test Score 890
+
+### ✍️ Languages and Tools
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
 ### 🗣️ Talk
 #### 2020
