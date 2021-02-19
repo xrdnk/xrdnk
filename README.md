@@ -35,7 +35,7 @@
 * [yokohama.unity #実質6回目](https://meetup.unity3d.jp/jp/events/1267) / LT (2020.12)
 
 #### 2021
-* TBD
+* [CA.unity #1](https://meetup.unity3d.jp/jp/events/1271) / LT (2021.2)
 
 ### 💻 Projects
 #### [TeleAttend🄬](https://www.tis.jp/service_solution/teleattend/) (TIS Inc. / 2020.5 ～)
