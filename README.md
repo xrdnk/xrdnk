@@ -12,7 +12,7 @@
 * System Engineer (2019.4 ~ 2020.4)
 
 ### 🏫 Education
-* 筑波大学院システム情報工学研究科知能機能システム専攻修了 Master of Engineering University of Tsukuba, Ibaraki, Japan
+* 筑波大学大学院システム情報工学研究科知能機能システム専攻修了 Master of Engineering University of Tsukuba, Ibaraki, Japan
 * 筑波大学理工学群工学システム学類機能工学システム専攻卒業 Bachelor of Engineering University of Tsukuba, Ibaraki, Japan
 * 埼玉県立春日部高等学校卒業 Kasukabe High School, Saitama, Japan
 
