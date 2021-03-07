@@ -46,6 +46,4 @@
 * [万博記念公園にて実証実験を実施](https://www.tis.co.jp/news/2020/tis_news/20201012_1.html)
 * HoloLens 2 版アプリ対応を主担当 ([コンテンツ東京2020にて展示し，テレビ放映された](https://www.tis.co.jp/news/2020/tis_info/20201013_1.html)）
 
-### 🎇 Others
-
-[![xrdnk's GitHub stats](https://github-readme-stats.vercel.app/api?username=xrdnk&layout=compact&hide=stars,contribs,issues&count_private=true&show_icons=true&theme=dracula)](https://github.com/xrdnk/github-readme-stats)
+#### yet-to-be-published (TIS Inc. / 2020.12 ～)
