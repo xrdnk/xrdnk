@@ -11,6 +11,8 @@
 
 [![Update gist with WakaTime stats](https://github.com/xrdnk/waka-box/actions/workflows/schedule.yml/badge.svg)](https://github.com/xrdnk/waka-box/actions/workflows/schedule.yml)
 
+<iframe src="https://gist.github.com/xrdnk/b0cde6539250e37aaa56ed8d7fa61fa1.pibb"></iframe>
+
 ### 😃 Biography
 * XR Developer (2020.5 ~ Current)
 * System Engineer (2019.4 ~ 2020.4)
