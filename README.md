@@ -52,4 +52,4 @@
 
 #### [XR Campus - Tour Service](https://www.youtube.com/watch?v=MBtlXlEMAQ8) (TIS Inc. / 2020.12 ～)
 
-* UniRx, UniTask, Extenject, Vivox, MLAPI を用いた Unity アプリ開発に従事
+* UniRx, UniTask, Extenject, Vivox, MLAPI を用いたマルチプレイアプリ開発に従事
