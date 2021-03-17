@@ -50,6 +50,7 @@
 * [万博記念公園にて実証実験を実施](https://www.tis.co.jp/news/2020/tis_news/20201012_1.html)
 * HoloLens 2 版アプリ対応を主担当 ([コンテンツ東京2020にて展示し，テレビ放映された](https://www.tis.co.jp/news/2020/tis_info/20201013_1.html)）
 
-#### [XR Campus - Tour Service](https://www.youtube.com/watch?v=MBtlXlEMAQ8) (TIS Inc. / 2020.12 ～)
+#### [XR Campus - Tour Service](https://www.tis.jp/service_solution/xr_campus/tour/) (TIS Inc. / 2020.12 ～)
 
-* UniRx, UniTask, Extenject, Vivox, MLAPI を用いたマルチプレイアプリ開発に従事
+* UniRx, UniTask, Extenject, Vivox, MLAPI，Agora を用いた XR マルチプレイアプリ開発に従事
+* フロントエンド，バックエンド，幅広くエンジニアリング部分を担当
