@@ -53,4 +53,3 @@
 #### [XR Campus - Tour Service](https://www.tis.jp/service_solution/xr_campus/tour/) (TIS Inc. / 2020.12 ～)
 
 * UniRx, UniTask, Extenject, Vivox, MLAPI, Agora を用いた XR マルチプレイアプリ開発に従事
-* フロントエンド，バックエンド，幅広くエンジニアリング部分を担当
