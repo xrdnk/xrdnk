@@ -42,6 +42,7 @@
 #### 2021
 * [CA.unity #1](https://meetup.unity3d.jp/jp/events/1271) / LT (2021.2)
 * [Roppongi.unity #8](https://roppongiunity.connpass.com/event/171512/) / LT (2021.2)
+* [Unity春のアセット祭り2021](https://meetup.unity3d.jp/jp/events/1295) / 登壇 (2021.4)
 
 ### 💻 Projects
 #### [TeleAttend🄬](https://www.tis.jp/service_solution/teleattend/) (TIS Inc. / 2020.5 ～)
@@ -53,3 +54,5 @@
 #### [XR Campus - Tour Service](https://www.tis.jp/service_solution/xr_campus/tour/) (TIS Inc. / 2020.12 ～)
 
 * UniRx, UniTask, Extenject, Vivox, MLAPI, Agora を用いた XR マルチプレイアプリ開発に従事
+* [第1回XR総合展にて展示](https://www.tis.co.jp/news/2021/tis_info/20210412_1.html)
+
