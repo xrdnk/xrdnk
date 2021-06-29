@@ -46,7 +46,7 @@
 * [Unity春のアセット祭り2021](https://meetup.unity3d.jp/jp/events/1295) / Session Talk (2021.4)
 
 ### 💻 Projects
-#### [TeleAttend🄬](https://www.tis.jp/service_solution/teleattend/) (TIS Inc. / 2020.5 ～)
+#### [TeleAttend🄬](https://www.tis.jp/service_solution/teleattend/) (TIS Inc. / 2020.5 ～ 2020.12 )
 
 * UniRx，UniTask，Extenject，Photon を用いた VR/AR マルチプレイアプリ開発に従事
 * [万博記念公園にて実証実験を実施](https://www.tis.co.jp/news/2020/tis_news/20201012_1.html)
