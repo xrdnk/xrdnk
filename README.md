@@ -44,6 +44,7 @@
 * [CA.unity #1](https://meetup.unity3d.jp/jp/events/1271) / LT (2021.2)
 * [Roppongi.unity #8](https://roppongiunity.connpass.com/event/171512/) / LT (2021.2)
 * [Unity春のアセット祭り2021](https://meetup.unity3d.jp/jp/events/1295) / Session Talk (2021.4)
+* [Gotanda.unity #19](https://meetup.unity3d.jp/jp/events/1315) / LT (2021.7)
 
 ### 💻 Projects
 #### [TeleAttend🄬](https://www.tis.jp/service_solution/teleattend/) (TIS Inc. / 2020.5 ～ 2020.12 )
