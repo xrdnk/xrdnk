@@ -57,4 +57,5 @@
 
 * UniRx, UniTask, Extenject, Vivox, MLAPI, Agora を用いた XR マルチプレイアプリ開発に従事
 * [第1回XR総合展にて展示](https://www.tis.co.jp/news/2021/tis_info/20210412_1.html)
+* [トライアル版リリース](https://www.tis.co.jp/news/2021/tis_news/20210607_1.html)
 
