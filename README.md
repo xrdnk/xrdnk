@@ -16,10 +16,12 @@
 * System Engineer (2019.4 ~ 2020.4)
 
 ### 🏫 Education
-* 筑波大学大学院システム情報工学研究科知能機能システム専攻修了 Master of Engineering University of Tsukuba, Ibaraki, Japan
-修士論文「潜水型バーチャル海中体感システムの開発」[修士論文優秀賞受賞 Outstanding Master's Thesis Award](http://www.iit.tsukuba.ac.jp/archives/awards/iitawards/7939.html)
-* 筑波大学理工学群工学システム学類機能工学システム専攻卒業 Bachelor of Engineering University of Tsukuba, Ibaraki, Japan
-卒業論文「水中で使用可能な頭部搭載型ディスプレイの開発」
+* 筑波大学大学院システム情報工学研究科知能機能システム専攻修了 Master of Engineering University of Tsukuba, Ibaraki, Japan  
+修士論文題目「潜水型バーチャル海中体感システムの開発」[修士論文優秀賞受賞 Outstanding Master's Thesis Award](http://www.iit.tsukuba.ac.jp/archives/awards/iitawards/7939.html)
+
+* 筑波大学理工学群工学システム学類機能工学システム専攻卒業 Bachelor of Engineering University of Tsukuba, Ibaraki, Japan  
+卒業論文題目「水中で使用可能な頭部搭載型ディスプレイの開発」
+
 * 埼玉県立春日部高等学校卒業 Kasukabe High School, Saitama, Japan
 
 ### 📚 Certification
