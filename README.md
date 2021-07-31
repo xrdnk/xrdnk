@@ -69,6 +69,7 @@
 
 #### [Unidux Scene Transition ハンズオン](https://speakerdeck.com/xrdnk/xrdnk-unidux-scene-transition-hands-on) (2021.7)
 
+* TIS Inc. の XR チーム内で講師として発表
 * Unidux を用いた画面遷移・状態制御方法のハンズオン
 * Unidux の概念説明
 * Domain Scene，Presentation Scene の分離を考慮した上でのマルチシーン構成の説明
