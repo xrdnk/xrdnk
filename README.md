@@ -44,7 +44,9 @@
 * [CA.unity #1](https://meetup.unity3d.jp/jp/events/1271) / LT (2021.2)
 * [Roppongi.unity #8](https://roppongiunity.connpass.com/event/171512/) / LT (2021.2)
 * [Unity春のアセット祭り2021](https://meetup.unity3d.jp/jp/events/1295) / Session Talk (2021.4)
+* [三種の神器とMV(R)Pパターン 内部ハンズオン](https://xrdnk.hateblo.jp/entry/2021/04/20/225055) / Hands-on Session (2021.4)
 * [Gotanda.unity #19](https://meetup.unity3d.jp/jp/events/1315) / LT (2021.7)
+* [Unidux Scene Transition 内部ハンズオン](https://speakerdeck.com/xrdnk/xrdnk-unidux-scene-transition-hands-on) / Hands-on Session (2021.7)
 
 ### 💻 Projects
 #### [TeleAttend🄬](https://www.tis.jp/service_solution/teleattend/) (TIS Inc. / 2020.5 ～ 2020.12 )
@@ -59,21 +61,9 @@
 * [第1回XR総合展にて展示](https://www.tis.co.jp/news/2021/tis_info/20210412_1.html)
 * [トライアル版リリース](https://www.tis.co.jp/news/2021/tis_news/20210607_1.html)
 
-#### [三種の神器とMV(R)Pパターン ハンズオン](https://xrdnk.hateblo.jp/entry/2021/04/20/225055) (2021.4)
-* TIS Inc. の XR チーム内で講師として発表
-* X@R, XR Advanced Reliance コミュニティで講師として発表
-* 簡単な UniRx，UniTask，Zenject，VContainer の説明とハンズオンを実施
-
 #### Details Unknown (X@R, XR Advanced Reliance / 2021.6)
 
 * World Locking Tools を利用した HoloLens 2 プロトタイプアプリ実装
-
-#### [Unidux Scene Transition ハンズオン](https://speakerdeck.com/xrdnk/xrdnk-unidux-scene-transition-hands-on) (2021.7)
-
-* TIS Inc. の XR チーム内で講師として発表
-* Unidux を用いた画面遷移・状態制御方法のハンズオンを実施
-* Unidux の概念説明
-* Domain Scene，Presentation Scene の分離を考慮した上でのマルチシーン構成の説明
 
 #### Unbanned (TIS Inc. / 2021.7 ～)
 
