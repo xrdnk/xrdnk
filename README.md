@@ -62,6 +62,7 @@
 #### [三種の神器とMV(R)Pパターン ハンズオン](https://xrdnk.hateblo.jp/entry/2021/04/20/225055) (2021.4)
 * TIS Inc. の XR チーム内で講師として発表
 * X@R, XR Advanced Reliance コミュニティで講師として発表
+* 簡単な UniRx，UniTask，Zenject，VContainer の説明とハンズオンを実施
 
 #### Details Unknown (X@R, XR Advanced Reliance / 2021.6)
 
@@ -70,7 +71,7 @@
 #### [Unidux Scene Transition ハンズオン](https://speakerdeck.com/xrdnk/xrdnk-unidux-scene-transition-hands-on) (2021.7)
 
 * TIS Inc. の XR チーム内で講師として発表
-* Unidux を用いた画面遷移・状態制御方法のハンズオン
+* Unidux を用いた画面遷移・状態制御方法のハンズオンを実施
 * Unidux の概念説明
 * Domain Scene，Presentation Scene の分離を考慮した上でのマルチシーン構成の説明
 
