@@ -50,6 +50,7 @@
 * [三種の神器とMV(R)Pパターン 内部ハンズオン](https://xrdnk.hateblo.jp/entry/2021/04/20/225055) / Hands-on Session (2021.4)
 * [Gotanda.unity #19](https://meetup.unity3d.jp/jp/events/1315) / LT (2021.7)
 * [Unidux Scene Transition 内部ハンズオン](https://speakerdeck.com/xrdnk/xrdnk-unidux-scene-transition-hands-on) / Hands-on Session (2021.7)
+* [yokohama.unity #8](https://meetup.unity3d.jp/jp/events/1323) / LT (2021.08)
 
 ### 💻 Projects
 #### [TeleAttend🄬](https://www.tis.jp/service_solution/teleattend/) (TIS Inc. / 2020.5 ～ 2020.12 )
