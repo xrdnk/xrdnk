@@ -9,7 +9,9 @@
 
 ### 📖 Weekly Development Breakdown
 
+<!-->
 <img src="https://github.com/xrdnk/xrdnk/blob/main/images/stat.svg" alt="Denik Weekly Development Breakdown"/>
+<!-->
 
 ### 😃 Biography
 * XR Developer (2020.5 ~ Current)
