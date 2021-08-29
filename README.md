@@ -9,7 +9,7 @@
 
 ### 📖 Weekly Development Breakdown
 
-[![Update gist with WakaTime stats](https://github.com/xrdnk/waka-box/actions/workflows/schedule.yml/badge.svg)](https://github.com/xrdnk/waka-box/actions/workflows/schedule.yml)
+<img src="https://github.com/xrdnk/xrdnk/blob/main/images/stat.svg" alt="Denik Weekly Development Breakdown"/>
 
 ### 😃 Biography
 * XR Developer (2020.5 ~ Current)
