@@ -80,6 +80,10 @@ TBD
 
 * World Locking Tools を利用した HoloLens 2 プロトタイプアプリ実装
 
-#### Unbanned (TIS Inc. / 2021.7 ～)
+#### [XR Campus - Event Service](https://www.tis.jp/service_solution/xr_campus/) (TIS Inc. / 2021.7 ～)
 
+* UniRx, UniTask, Unidux, Zenject, Vivox, MLAPI, Agora を用いた XR マルチプレイアプリ開発
+* Unidux × Zenject を用いたマルチシーン・画面遷移設計の考案と開発
+
+#### Private Work (Side Business / 2021.9 ～)
 
