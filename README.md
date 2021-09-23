@@ -16,7 +16,7 @@ TBD
 * System Engineer (2019.4 ~ 2020.4)
 
 ### 🏫 Education
-* 筑波大学　感触工学研究室 / バーチャルリアリティ研究室 OB (2016.4 ～ 2019.3)
+* 筑波大学 [感触工学研究室 / バーチャルリアリティ研究室](https://sites.google.com/site/yhashimotolab/home) OB (2016.4 ～ 2019.3)
 
 * 筑波大学大学院システム情報工学研究科知能機能システム専攻修了 Master of Engineering University of Tsukuba, Ibaraki, Japan  
 修士論文題目「潜水型バーチャル海中体感システムの開発」[修士論文優秀賞受賞 Outstanding Master's Thesis Award](http://www.iit.tsukuba.ac.jp/archives/awards/iitawards/7939.html)
