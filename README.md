@@ -78,7 +78,7 @@ TBD
 * [第1回XR総合展にて展示](https://www.tis.co.jp/news/2021/tis_info/20210412_1.html)
 * [トライアル版リリース](https://www.tis.co.jp/news/2021/tis_news/20210607_1.html)
 
-#### Details Unknown (X@R, XR Advanced Reliance / 2021.6)
+#### Side Business (X@R, XR Advanced Reliance / 2021.6)
 
 * World Locking Tools を利用した HoloLens 2 プロトタイプアプリ実装
 
@@ -87,5 +87,4 @@ TBD
 * UniRx, UniTask, Unidux, Zenject, Vivox, MLAPI, Agora を用いた XR マルチプレイアプリ開発
 * Unidux × Zenject を用いたマルチシーン・画面遷移設計の考案と開発
 
-#### Private Work (Side Business / 2021.10 ～)
-
+#### Side Business (Private / 2021.10 ～)
