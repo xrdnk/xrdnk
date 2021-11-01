@@ -7,10 +7,6 @@
   <img height="25" src="https://img.shields.io/twitter/url?color=green&label=BLOG&style=for-the-badge&url=https%3A%2F%2Fxrdnk.hateblo.jp%2F" />
 </a>
 
-### 📖 Weekly Development Breakdown
-
-TBD
-
 ### 😃 Biography
 * XR Developer (2020.5 ~ Current)
 * System Engineer (2019.4 ~ 2020.4)
