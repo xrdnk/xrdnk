@@ -82,5 +82,6 @@
 
 * UniRx, UniTask, Unidux, Zenject, Vivox, MLAPI, Agora を用いた XR マルチプレイアプリ開発
 * Unidux × Zenject を用いたマルチシーン・画面遷移設計の考案と開発
+* [BOTAFES'21](https://prtimes.jp/main/html/rd/p/000001051.000011650.html)にて実証実験を実施
 
 #### Side Business (Private / 2021.10 ～)
