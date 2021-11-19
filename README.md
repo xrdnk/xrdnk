@@ -45,6 +45,7 @@
 * [Gotanda.unity #19](https://meetup.unity3d.jp/jp/events/1315) / LT (2021.7)
 * [Unidux Scene Transition 内部ハンズオン](https://speakerdeck.com/xrdnk/xrdnk-unidux-scene-transition-hands-on) / Hands-on Session (2021.7)
 * [yokohama.unity #8](https://meetup.unity3d.jp/jp/events/1323) / LT (2021.08)
+* [yokohama.unity #9](https://meetup.unity3d.jp/jp/events/1330) / LT (2021.11)
 
 ### 💻 Projects
 #### [TeleAttend🄬](https://www.tis.jp/service_solution/teleattend/) (TIS Inc. / 2020.5 ～ 2020.12 )
