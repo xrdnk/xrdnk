@@ -41,9 +41,7 @@
 * [CA.unity #1](https://meetup.unity3d.jp/jp/events/1271) / LT (2021.2)
 * [Roppongi.unity #8](https://roppongiunity.connpass.com/event/171512/) / LT (2021.2)
 * [Unity春のアセット祭り2021](https://meetup.unity3d.jp/jp/events/1295) / Session Talk (2021.4)
-* [三種の神器とMV(R)Pパターン 内部ハンズオン](https://xrdnk.hateblo.jp/entry/2021/04/20/225055) / Hands-on Session (2021.4)
 * [Gotanda.unity #19](https://meetup.unity3d.jp/jp/events/1315) / LT (2021.7)
-* [Unidux Scene Transition 内部ハンズオン](https://speakerdeck.com/xrdnk/xrdnk-unidux-scene-transition-hands-on) / Hands-on Session (2021.7)
 * [yokohama.unity #8](https://meetup.unity3d.jp/jp/events/1323) / LT (2021.08)
 * [yokohama.unity #9](https://meetup.unity3d.jp/jp/events/1330) / LT (2021.11)
 
