@@ -64,7 +64,7 @@
 
 #### [XR Campus - Event Service](https://www.tis.jp/service_solution/xr_campus/event/) (TIS Inc. / 2021.7 ～)
 
-* UniRx, UniTask, Unidux, Zenject, Vivox, MLAPI, Agora を用いた XR マルチプレイアプリ開発
+* UniRx, UniTask, Unidux, Zenject, Vivox, Netcode for GameObjects(MLAPI), Agora を用いた XR マルチプレイアプリ開発
 * Unidux × Zenject を用いたマルチシーン・画面遷移設計の考案と開発
 * [BOTAFES'21](https://prtimes.jp/main/html/rd/p/000001051.000011650.html)にて実証実験を実施
 
