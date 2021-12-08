@@ -81,7 +81,7 @@
   
 </details>
 
-### Side Business
+### 💻 Side Business
 
 <details>
 
