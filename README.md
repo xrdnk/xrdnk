@@ -40,6 +40,7 @@
 * [Gotanda.unity #19](https://meetup.unity3d.jp/jp/events/1315) / LT (2021.7)
 * [yokohama.unity #8](https://meetup.unity3d.jp/jp/events/1323) / LT (2021.08)
 * [yokohama.unity #9](https://meetup.unity3d.jp/jp/events/1330) / LT (2021.11)
+* [【年末だよ】Unity お・と・なのLT大会 2021](https://meetup.unity3d.jp/jp/events/1337) / LT (2021.12)
 
 #### 2020
 
