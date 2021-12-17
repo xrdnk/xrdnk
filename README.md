@@ -9,8 +9,10 @@
 
 ### 😃 Biography
 
-* XR Developer (2020.5 ~ Current)
+* XR Developer (2020.5 ~ 2021.12)
 * System Engineer (2019.4 ~ 2020.4)
+* Graduate Student Researching VR (2017.4 ～ 2019.3)
+* University Student Reserching VR (2016.4 ～ 2017.3)
 
 ### 🏫 Education
 
@@ -34,6 +36,8 @@
 
 #### 2021
 
+<details>
+
 * [CA.unity #1](https://meetup.unity3d.jp/jp/events/1271) / LT (2021.2)
 * [Roppongi.unity #8](https://roppongiunity.connpass.com/event/171512/) / LT (2021.2)
 * [Unity春のアセット祭り2021](https://meetup.unity3d.jp/jp/events/1295) / Session Talk (2021.4)
@@ -42,6 +46,8 @@
 * [yokohama.unity #9](https://meetup.unity3d.jp/jp/events/1330) / LT (2021.11)
 * [【年末だよ】Unity お・と・なのLT大会 2021](https://meetup.unity3d.jp/jp/events/1337) / LT (2021.12)
 
+</details>
+  
 #### 2020
 
 <details>
