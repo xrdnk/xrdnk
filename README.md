@@ -9,6 +9,7 @@
 
 ### 😃 Biography
 
+* ??? (2022.1 ~ )
 * XR Developer (2020.5 ~ 2021.12)
 * System Engineer (2019.4 ~ 2020.4)
 * Graduate Student Researching VR (2017.4 ～ 2019.3)
