@@ -6,6 +6,9 @@
 <a href="https://xrdnk.hateblo.jp/">
   <img height="25" src="https://img.shields.io/twitter/url?color=green&label=BLOG&style=for-the-badge&url=https%3A%2F%2Fxrdnk.hateblo.jp%2F" />
 </a>
+<a href="https://learning.unity3d.jp/speaker/denik-hatsushika/">
+  <img height="25" src="https://img.shields.io/badge/-Unity%20Learning%20Materials-000000.svg?logo=unity&style=for-the-badge&url=https%3A%2F%2Flearning.unity3d.jp%3Fspeaker%3Fdenik-hatsushika%3F">
+</a>
 
 ### 😃 Biography
 
