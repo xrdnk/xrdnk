@@ -12,8 +12,9 @@
 <a href="https://qiita.com/xrdnk">
   <img height="25" src="https://img.shields.io/badge/Qiita--55C500.svg?logo=qiita&style=for-the-badge">
 </a>
-
-
+<a href="https://speakerdeck.com/xrdnk">
+  <img src="https://img.shields.io/badge/-Speakerdeck-339966.svg?logo=speakerdeck&style=for-the-badge">
+</a>
 
 ### 😃 Biography
 
