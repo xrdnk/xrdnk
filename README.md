@@ -1,7 +1,7 @@
 ### 💙 SNS
 
 <a href="http://twitter.com/xrdnk">
-  <img height="25" src="https://img.shields.io/twitter/url?color=blue&label=xrdnk&logo=twitter&logoColor=blue&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fxrdnk" />
+  <img height="25" src="https://img.shields.io/badge/Twitter--1DA1F2.svg?logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fxrdnk" />
 </a>
 <a href="https://xrdnk.hateblo.jp/">
   <img height="25" src="https://img.shields.io/badge/HatenaBlog--00A4DE.svg?logo=hatenabookmark&style=for-the-badge&url=https%3A%2F%2Fxrdnk.hateblo.jp%2F" />
