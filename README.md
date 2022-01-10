@@ -18,11 +18,9 @@
 
 ### 😃 Biography
 
-* VR Engineer (2022.1 ~ )
-* XR Developer (2020.5 ~ 2021.12)
-* System Engineer (2019.4 ~ 2020.4)
-* Graduate Student Researching VR (2017.4 ～ 2019.3)
-* University Student Researching VR (2016.4 ～ 2017.3)
+* My Dearest Inc. / VR Engineer (2022.1 ~ )
+* TIS Inc. / XR Developer (2020.5 ~ 2021.12)
+* TIS Inc. / System Engineer (2019.4 ~ 2020.4)
 
 ### 🏫 Education
 
@@ -46,9 +44,9 @@
 
 ### 🗣️ LT / Session Talk
 
-#### 2021
+#### 2022
 
-<details>
+#### 2021
 
 * [CA.unity #1](https://meetup.unity3d.jp/jp/events/1271) / LT (2021.2)
 * [Roppongi.unity #8](https://roppongiunity.connpass.com/event/171512/) / LT (2021.2)
@@ -57,12 +55,8 @@
 * [yokohama.unity #8](https://meetup.unity3d.jp/jp/events/1323) / LT (2021.08)
 * [yokohama.unity #9](https://meetup.unity3d.jp/jp/events/1330) / LT (2021.11)
 * [【年末だよ】Unity お・と・なのLT大会 2021](https://meetup.unity3d.jp/jp/events/1337) / LT (2021.12)
-
-</details>
   
 #### 2020
-
-<details>
 
 * [xRLT vol.3～オンラインでやってみようスペシャル～](https://hololens.connpass.com/event/164989/) / LT (2020.3)
 * [第5回勉強会「XR Interaction Toolkitの話、他」](https://chiikiokoshi-vr.connpass.com/event/175620) / LT (2020.6)
@@ -71,14 +65,14 @@
 * [xR Developers Community Conference](https://vrtokyo.connpass.com/event/185043) / Session Talk (2020.8)
 * [Tokyo HoloLens ミートアップ vol.22](https://hololens.connpass.com/event/191356/) / LT (2020.10)
 * [yokohama.unity #実質6回目](https://meetup.unity3d.jp/jp/events/1267) / LT (2020.12)
-
- </details>
   
 ### 💻 Main Business
 
-#### TIS Inc. 
+#### MyDearest Inc.
 
-<details>
+##### [Dyschronia : Chronos Alternate](https://dyschroniaca.com/) (2022.1 ～)
+
+#### TIS Inc. 
 
 ##### [XR Campus - Event Service](https://www.tis.jp/service_solution/xr_campus/event/) (2021.7 ～ 2021.12)
 
@@ -98,18 +92,14 @@
 * [万博記念公園にて実証実験を実施](https://www.tis.co.jp/news/2020/tis_news/20201012_1.html)
 * HoloLens 2 版アプリ対応を主担当 ([コンテンツ東京2020にて展示し，テレビ放映された](https://www.tis.co.jp/news/2020/tis_info/20201013_1.html)）
   
-</details>
-
 ### 💻 Side Business
 
-<details>
+#### TECH Planning LLC 
 
-#### Hellarts Inc. (2021.10 ～ 2021.11)
+##### NDA (2021.11 ～)
 
-* ソーシャルゲームのアウトゲーム新規機能実装
+##### World Locking Tools を利用した HoloLens 2 プロトタイプアプリ実装 (2021.6)
 
-#### TECH Planning LLC (2021.6)
+#### Hellarts Inc. 
 
-* World Locking Tools を利用した HoloLens 2 プロトタイプアプリ実装
-
-</details>
+##### ソーシャルゲームのアウトゲーム新規機能実装 (2021.10 ～ 2021.11)
