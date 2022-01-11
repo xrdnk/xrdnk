@@ -70,36 +70,21 @@
 
 #### MyDearest Inc.
 
-##### [Dyschronia : Chronos Alternate](https://dyschroniaca.com/) (2022.1 ～)
+- [Dyschronia : Chronos Alternate](https://dyschroniaca.com/) (2022.1 ～)
 
 #### TIS Inc. 
 
-##### [XR Campus - Event Service](https://www.tis.jp/service_solution/xr_campus/event/) (2021.7 ～ 2021.12)
-
-* UniRx, UniTask, Unidux, Zenject, Vivox, Netcode for GameObjects(MLAPI), Agora を用いた XR マルチプレイアプリ開発
-* Unidux × Zenject を用いたマルチシーン・画面遷移設計の考案と開発
-* [BOTAFES'21](https://prtimes.jp/main/html/rd/p/000001051.000011650.html)にて実証実験を実施
-
-##### [XR Campus - Tour Service](https://www.tis.jp/service_solution/xr_campus/tour/) (2020.12 ～ 2021.12)
-
-* UniRx, UniTask, Extenject, Vivox, MLAPI, Agora を用いた XR マルチプレイアプリ開発に従事
-* [第1回XR総合展にて展示](https://www.tis.co.jp/news/2021/tis_info/20210412_1.html)
-* [トライアル版リリース](https://www.tis.co.jp/news/2021/tis_news/20210607_1.html)
-
-##### [TeleAttend🄬](https://www.tis.jp/service_solution/teleattend/) (TIS Inc. /2020.5 ～ 2020.12)
-
-* UniRx，UniTask，Extenject，Photon を用いた VR/AR マルチプレイアプリ開発に従事
-* [万博記念公園にて実証実験を実施](https://www.tis.co.jp/news/2020/tis_news/20201012_1.html)
-* HoloLens 2 版アプリ対応を主担当 ([コンテンツ東京2020にて展示し，テレビ放映された](https://www.tis.co.jp/news/2020/tis_info/20201013_1.html)）
+- [XR Campus - Event Service](https://www.tis.jp/service_solution/xr_campus/event/) (2021.7 ～ 2021.12)
+- [XR Campus - Tour Service](https://www.tis.jp/service_solution/xr_campus/tour/) (2020.12 ～ 2021.12)
+- [TeleAttend🄬](https://www.tis.jp/service_solution/teleattend/) (TIS Inc. /2020.5 ～ 2020.12)
   
 ### 💻 Side Business
 
 #### TECH Planning LLC 
 
-##### NDA (2021.11 ～)
-
-##### World Locking Tools を利用した HoloLens 2 プロトタイプアプリ実装 (2021.6)
+- NDA (2021.11 ～)
+- World Locking Tools を利用した HoloLens 2 プロトタイプアプリ実装 (2021.6)
 
 #### Hellarts Inc. 
 
-##### ソーシャルゲームのアウトゲーム新規機能実装 (2021.10 ～ 2021.11)
+- ソーシャルゲームのアウトゲーム新規機能実装 (2021.10 ～ 2021.11)
