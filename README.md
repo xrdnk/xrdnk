@@ -18,9 +18,9 @@
 
 ### 😃 Biography
 
-* My Dearest Inc. / VR Engineer (2022.1 ~ )
-* TIS Inc. / XR Developer (2020.5 ~ 2021.12)
-* TIS Inc. / System Engineer (2019.4 ~ 2020.4)
+* MyDearest, Inc. / VR Engineer (2022.1 ~ )
+* TIS, Inc. / XR Developer (2020.5 ~ 2021.12)
+* TIS, Inc. / System Engineer (2019.4 ~ 2020.4)
 
 ### 🏫 Education
 
@@ -68,11 +68,11 @@
   
 ### 💻 Main Business
 
-#### MyDearest Inc.
+#### MyDearest, Inc.
 
 - [Dyschronia : Chronos Alternate](https://dyschroniaca.com/) (2022.1 ～)
 
-#### TIS Inc. 
+#### TIS, Inc. 
 
 - [XR Campus - Event Service](https://www.tis.jp/service_solution/xr_campus/event/) (2021.7 ～ 2021.12)
 - [XR Campus - Tour Service](https://www.tis.jp/service_solution/xr_campus/tour/) (2020.12 ～ 2021.12)
@@ -85,6 +85,6 @@
 - NDA (2021.11 ～)
 - World Locking Tools を利用した HoloLens 2 プロトタイプアプリ実装 (2021.6)
 
-#### Hellarts Inc. 
+#### Hellarts, Inc. 
 
 - ソーシャルゲームのアウトゲーム新規機能実装 (2021.10 ～ 2021.11)
