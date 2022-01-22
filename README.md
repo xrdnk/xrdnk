@@ -42,9 +42,15 @@
 * 基本情報技術者 Fundamental Information Technology Engineer
 * TOEIC® Listening & Reading Test Score 890
 
+### 📖 Publishing
+
+* TBD
+
 ### 🗣️ LT / Session Talk
 
 #### 2022
+
+* TBD
 
 #### 2021
 
