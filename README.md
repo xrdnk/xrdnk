@@ -44,7 +44,7 @@
 
 ### 📖 Publishing
 
-* TBD
+* [Fish-NetでUnityのマルチプレイゲームを作ろう](https://techbookfest.org/product/5978890134618112?productVariantID=4758962924683264) / 技術書典12 (2022.1)
 
 ### 🗣️ LT / Session Talk
 
