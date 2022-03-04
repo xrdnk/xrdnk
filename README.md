@@ -46,6 +46,10 @@
 
 * [Fish-NetでUnityのマルチプレイゲームを作ろう](https://techbookfest.org/product/5978890134618112?productVariantID=4758962924683264) / 技術書典12 (2022.1)
 
+### 🎙️ Interview
+
+* [元FF14世界ランカーが語るVRMMO「Zenith」の面白さ](https://www.moguravr.com/zenith-the-last-city-5/)
+
 ### 🗣️ LT / Session Talk
 
 #### 2022
