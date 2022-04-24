@@ -49,6 +49,7 @@
 ### 🎙️ Interview
 
 * [元FF14世界ランカーが語るVRMMO「Zenith」の面白さ](https://www.moguravr.com/zenith-the-last-city-5/) / MoguLive (2022.3)
+* [VR/ARの実装は最低限これひとつでOK「XR Interaction Toolkit」を利用したXR開発](https://logmi.jp/tech/articles/324544) / logmiTech (2021.07)
 
 ### 🗣️ LT / Session Talk
 
