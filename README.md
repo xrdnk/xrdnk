@@ -44,36 +44,38 @@
 
 ### 📖 Publishing
 
-* [Fish-NetでUnityのマルチプレイゲームを作ろう](https://techbookfest.org/product/5978890134618112?productVariantID=4758962924683264) / 技術書典12 (2022.1)
+* [Fish-NetでUnityのマルチプレイゲームを作ろう](https://techbookfest.org/product/5978890134618112?productVariantID=4758962924683264) / 技術書典12 (2022.01)
 
 ### 🎙️ Interview
 
-* [元FF14世界ランカーが語るVRMMO「Zenith」の面白さ](https://www.moguravr.com/zenith-the-last-city-5/) / MoguLive (2022.3)
+* [元FF14世界ランカーが語るVRMMO「Zenith」の面白さ](https://www.moguravr.com/zenith-the-last-city-5/) / MoguLive (2022.03)
 * [VR/ARの実装は最低限これひとつでOK「XR Interaction Toolkit」を利用したXR開発](https://logmi.jp/tech/articles/324544) / logmiTech (2021.07)
 
 ### 🗣️ LT / Session Talk
 
 #### 2022
 
-* [XRMTG 2022/03/16](https://osaka-driven-dev-br-tokyo.connpass.com/event/241110/) / LT (2022.3) 
+* [XRMTG 2022/03/16](https://osaka-driven-dev-br-tokyo.connpass.com/event/241110/) / LT (2022.03) 
+* TBD / LT (2022.05)
+* TBD / LT (2022.05)
 
 #### 2021
 
-* [CA.unity #1](https://meetup.unity3d.jp/jp/events/1271) / LT (2021.2)
-* [Roppongi.unity #8](https://roppongiunity.connpass.com/event/171512/) / LT (2021.2)
-* [Unity春のアセット祭り2021](https://meetup.unity3d.jp/jp/events/1295) / Session Talk (2021.4)
-* [Gotanda.unity #19](https://meetup.unity3d.jp/jp/events/1315) / LT (2021.7)
+* [CA.unity #1](https://meetup.unity3d.jp/jp/events/1271) / LT (2021.02)
+* [Roppongi.unity #8](https://roppongiunity.connpass.com/event/171512/) / LT (2021.02)
+* [Unity春のアセット祭り2021](https://meetup.unity3d.jp/jp/events/1295) / Session Talk (2021.04)
+* [Gotanda.unity #19](https://meetup.unity3d.jp/jp/events/1315) / LT (2021.07)
 * [yokohama.unity #8](https://meetup.unity3d.jp/jp/events/1323) / LT (2021.08)
 * [yokohama.unity #9](https://meetup.unity3d.jp/jp/events/1330) / LT (2021.11)
 * [【年末だよ】Unity お・と・なのLT大会 2021](https://meetup.unity3d.jp/jp/events/1337) / LT (2021.12)
   
 #### 2020
 
-* [xRLT vol.3～オンラインでやってみようスペシャル～](https://hololens.connpass.com/event/164989/) / LT (2020.3)
-* [第5回勉強会「XR Interaction Toolkitの話、他」](https://chiikiokoshi-vr.connpass.com/event/175620) / LT (2020.6)
-* [Tokyo HoloLens ミートアップ vol.20](https://hololens.connpass.com/event/180507) / LT (2020.7)
-* [yokohama.unity ～オンラインDEユルクヤッテル #実質4回目～](https://meetup.unity3d.jp/jp/events/1253) / LT (2020.7)
-* [xR Developers Community Conference](https://vrtokyo.connpass.com/event/185043) / Session Talk (2020.8)
+* [xRLT vol.3～オンラインでやってみようスペシャル～](https://hololens.connpass.com/event/164989/) / LT (2020.03)
+* [第5回勉強会「XR Interaction Toolkitの話、他」](https://chiikiokoshi-vr.connpass.com/event/175620) / LT (2020.06)
+* [Tokyo HoloLens ミートアップ vol.20](https://hololens.connpass.com/event/180507) / LT (2020.07)
+* [yokohama.unity ～オンラインDEユルクヤッテル #実質4回目～](https://meetup.unity3d.jp/jp/events/1253) / LT (2020.07)
+* [xR Developers Community Conference](https://vrtokyo.connpass.com/event/185043) / Session Talk (2020.08)
 * [Tokyo HoloLens ミートアップ vol.22](https://hololens.connpass.com/event/191356/) / LT (2020.10)
 * [yokohama.unity #実質6回目](https://meetup.unity3d.jp/jp/events/1267) / LT (2020.12)
   
@@ -94,7 +96,7 @@
 #### TECH Planning LLC 
 
 - NDA (2021.11 ～)
-- World Locking Tools を利用した HoloLens 2 プロトタイプアプリ実装 (2021.6)
+- World Locking Tools を利用した HoloLens 2 プロトタイプアプリ実装 (2021.06)
 
 #### Hellarts, Inc. 
 
