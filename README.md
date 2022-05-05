@@ -15,6 +15,9 @@
 <a href="https://speakerdeck.com/xrdnk">
   <img height="25" src="https://img.shields.io/badge/-Speakerdeck-339966.svg?logo=speakerdeck&style=for-the-badge">
 </a>
+<a href="https://deniverse.booth.pm/">
+  <img height="25" src="https://img.shields.io/badge/-BOOTH-FC4D50.svg?logo=BOOTH&style=popout-square">
+</a>
 
 ### 😃 Biography
 
