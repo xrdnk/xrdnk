@@ -1,5 +1,4 @@
-![Deniverse](https://user-images.githubusercontent.com/42105015/167011669-840d2cb1-299c-4cd7-a5f4-60fbd5239ab3.png)
-
+![Deniverse](https://user-images.githubusercontent.com/42105015/167700102-bd4d109e-ccd4-40e6-b8cd-00e9df96ce2a.png)
 
 ### 💙 SNS
 
