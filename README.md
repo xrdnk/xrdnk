@@ -24,8 +24,8 @@
 ### 😃 Biography
 
 * [MyDearest, Inc.](https://mydearestvr.com/) / VR Engineer (2022.1 ~ )
-* TIS, Inc. / XR Developer (2020.5 ~ 2021.12)
-* TIS, Inc. / System Engineer (2019.4 ~ 2020.4)
+* [TIS, Inc.](https://www.tis.co.jp/) / XR Developer (2020.5 ~ 2021.12)
+* [TIS, Inc.](https://www.tis.co.jp/) / System Engineer (2019.4 ~ 2020.4)
 
 ### 🏫 Education
 
@@ -100,7 +100,7 @@
 
 #### TECH Planning LLC 
 
-- NDA (2021.11 ～)
+- NDA (2021.11 ～ 2022.3)
 - World Locking Tools を利用した HoloLens 2 プロトタイプアプリ実装 (2021.06)
 
 #### Hellarts, Inc. 
