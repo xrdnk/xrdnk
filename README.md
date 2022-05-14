@@ -61,7 +61,7 @@
 #### 2022
 
 * [XRMTG 2022/03/16](https://osaka-driven-dev-br-tokyo.connpass.com/event/241110/) / LT (2022.03) 
-* TBD / LT (2022.05)
+* [yokohama.unity #10](https://meetup.unity3d.jp/jp/events/1352) / LT (2022.05)
 * TBD / LT (2022.05)
 
 #### 2021
