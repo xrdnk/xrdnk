@@ -43,9 +43,9 @@
 
 ### 📚 Certification
 
-* 日本バーチャル学会公認上級バーチャルリアリティ技術者 Senior Virtual Reality Specialist
-* 基本情報技術者 Fundamental Information Technology Engineer
-* TOEIC® Listening & Reading Test Score 890
+* 2019.01 日本バーチャル学会公認上級バーチャルリアリティ技術者 Senior Virtual Reality Specialist
+* 2019.01 TOEIC® Listening & Reading Test Score 890
+* 2021.01 基本情報技術者 Fundamental Information Technology Engineer
 
 ### 📖 Publishing
 
