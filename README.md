@@ -50,7 +50,7 @@
 ### 📖 Publishing
 
 * [Fish-NetでUnityのマルチプレイゲームを作ろう](https://techbookfest.org/product/5978890134618112?productVariantID=4758962924683264) / 技術書典12 (2022.01)
-* [UNIBOOK14](https://webcatalog-free.circle.ms/Map#16202078/day=Day1/hall=w12/scale=0) / C100 (2022.08)
+* [UNIBOOK14](http://www.unity-bu.com/2022/08/unibook14-c100.html) / C100 (2022.08)
 
 ### 🎙️ Interview
 
