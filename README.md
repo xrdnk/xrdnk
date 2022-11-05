@@ -90,6 +90,9 @@
 #### MyDearest, Inc.
 
 - [Dyschronia : Chronos Alternate](https://dyschroniaca.com/) (2022.1 ～)
+  - Episode I  ：捜査ログ・インベントリを除いたメニュー系の実装，記憶の部屋，タイトル空間，ローカライズ基盤，ダイレクトインタラクションの実装
+  - Episode II ：????
+  - Episode III：
 
 #### TIS, Inc. 
 
