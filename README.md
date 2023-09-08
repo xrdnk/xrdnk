@@ -52,12 +52,16 @@
 * [Fish-NetでUnityのマルチプレイゲームを作ろう](https://techbookfest.org/product/5978890134618112?productVariantID=4758962924683264) / 技術書典12 (2022.01)
 * [UNIBOOK14](http://www.unity-bu.com/2022/08/unibook14-c100.html) / C100 (2022.08)
 
-### 🎙️ Interview
+### 🎙️ Interview / Report
 
+* [［CEDEC 2023］没入感を高める4つのアプローチ。“圧倒的な没入体験を目指して。VRアドベンチャー「ディスクロニア: CA」の体験設計”レポート](https://www.4gamer.net/games/999/G999905/20230901020/) / 4Gamer.net (2023.08)
 * [元FF14世界ランカーが語るVRMMO「Zenith」の面白さ](https://www.moguravr.com/zenith-the-last-city-5/) / MoguLive (2022.03)
 * [VR/ARの実装は最低限これひとつでOK「XR Interaction Toolkit」を利用したXR開発](https://logmi.jp/tech/articles/324544) / logmiTech (2021.07)
 
 ### 🗣️ LT / Session Talk
+
+#### 2023
+* [CEDEC2023](https://cedec.cesa.or.jp/2023/session/detail/s6441dd11a17da) / Session Talk (2023.8)
 
 #### 2022
 
@@ -89,7 +93,8 @@
 
 #### MyDearest, Inc.
 
-- [Dyschronia : Chronos Alternate](https://dyschroniaca.com/) (2022.1 ～ 2022.7)
+- [Brazen Blaze](https://twitter.com/BrazenBlazeVRJP) (2023.8 ～)
+- [Dyschronia : Chronos Alternate](https://dyschroniaca.com/) (2022.1 ～ 2023.7)
   - Episode I  ：捜査ログ・インベントリを除いたメニュー系の実装，記憶の部屋，タイトル空間，ローカライズ基盤，ダイレクトインタラクションの実装
   - Episode II ：捜査ログ・インベントリを除いたメニュー系・記憶の部屋・タイトル空間の拡張，ローカライズ基盤，パズルパート実装担当
   - Episode III：捜査ログ・インベントリを除いたメニュー系・記憶の部屋・タイトル空間の拡張，ローカライズ基盤，パズルパートゲームデザイン・実装担当
