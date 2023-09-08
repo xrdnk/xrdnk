@@ -89,10 +89,10 @@
 
 #### MyDearest, Inc.
 
-- [Dyschronia : Chronos Alternate](https://dyschroniaca.com/) (2022.1 ～)
+- [Dyschronia : Chronos Alternate](https://dyschroniaca.com/) (2022.1 ～ 2022.7)
   - Episode I  ：捜査ログ・インベントリを除いたメニュー系の実装，記憶の部屋，タイトル空間，ローカライズ基盤，ダイレクトインタラクションの実装
   - Episode II ：捜査ログ・インベントリを除いたメニュー系・記憶の部屋・タイトル空間の拡張，ローカライズ基盤，パズルパート実装担当
-  - Episode III：???
+  - Episode III：捜査ログ・インベントリを除いたメニュー系・記憶の部屋・タイトル空間の拡張，ローカライズ基盤，パズルパートゲームデザイン・実装担当
 
 #### TIS, Inc. 
 
