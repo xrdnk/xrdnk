@@ -95,9 +95,6 @@
 
 - [Brazen Blaze](https://twitter.com/BrazenBlazeVRJP) (2023.8 ～)
 - [Dyschronia : Chronos Alternate](https://dyschroniaca.com/) (2022.1 ～ 2023.7)
-  - Episode I  ：捜査ログ・インベントリを除いたメニュー系の実装，記憶の部屋，タイトル空間，ローカライズ基盤，ダイレクトインタラクションの実装
-  - Episode II ：捜査ログ・インベントリを除いたメニュー系・記憶の部屋・タイトル空間の拡張，ローカライズ基盤，パズルパート実装担当
-  - Episode III：捜査ログ・インベントリを除いたメニュー系・記憶の部屋・タイトル空間の拡張，ローカライズ基盤，パズルパートゲームデザイン・実装担当
 
 #### TIS, Inc. 
 
