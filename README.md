@@ -106,7 +106,7 @@
 
 #### fondi Inc.
 
-- [英語学習メタバース fondi](https://www.fondi.fun/top/ja) のアプリ開発 (2022.10 ～)
+- [英語学習メタバース fondi](https://www.fondi.fun/top/ja) のアプリ開発 (2022.10 ～ 2023.10)
 
 #### TECH Planning LLC 
 
