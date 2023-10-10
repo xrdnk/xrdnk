@@ -55,7 +55,6 @@
 ### 🎙️ Interview / Report
 
 * [［CEDEC 2023］没入感を高める4つのアプローチ。“圧倒的な没入体験を目指して。VRアドベンチャー「ディスクロニア: CA」の体験設計”レポート](https://www.4gamer.net/games/999/G999905/20230901020/) / 4Gamer.net (2023.08)
-* [元FF14世界ランカーが語るVRMMO「Zenith」の面白さ](https://www.moguravr.com/zenith-the-last-city-5/) / MoguLive (2022.03)
 * [VR/ARの実装は最低限これひとつでOK「XR Interaction Toolkit」を利用したXR開発](https://logmi.jp/tech/articles/324544) / logmiTech (2021.07)
 
 ### 🗣️ LT / Session Talk
