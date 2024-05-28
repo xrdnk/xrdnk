@@ -23,8 +23,8 @@
 
 ### 😃 Biography
 
-* [MyDearest, Inc.](https://mydearestvr.com/) / VR Engineer (2022.1 ~ 2024.4)
 * [TIS, Inc.](https://www.tis.co.jp/) / XR Developer (2020.5 ~ 2021.12, 2024.5 ~)
+* [MyDearest, Inc.](https://mydearestvr.com/) / VR Engineer (2022.1 ~ 2024.4)
 * [TIS, Inc.](https://www.tis.co.jp/) / System Engineer (2019.4 ~ 2020.4)
 
 ### 🏫 Education
