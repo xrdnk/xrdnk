@@ -97,7 +97,7 @@
 
 #### TIS, Inc. 
 
-- ??? (2025.1 ～)
+- QA² [Android](https://play.google.com/store/apps/details?id=com.TIS.QA2)/[iOS](https://apps.apple.com/jp/app/qa/id6747648497) (2025.1 ～)
 - [Buralit](https://www.buralit.com/) (2024.5 ～ 2024.12)
 - [XR Campus - Event Service](https://www.tis.jp/service_solution/xr_campus/event/) (2021.7 ～ 2021.12)
 - [XR Campus - Tour Service](https://www.tis.jp/service_solution/xr_campus/tour/) (2020.12 ～ 2021.12)
